@@ -4,6 +4,7 @@
 
 * Homework
 <br />  [week2 style transfer](https://colab.research.google.com/drive/1a6sz7wOhUrc2ROh6a3hQfx9wKOvrSd6J#scrollTo=y9r8Lyjb_m0u)
+<INPUT TYPE=image NAME=完成風格化的成品 SRC=https://github.com/Huwalli/eduproject/blob/main/style_transfer.png ALIGN=bottom>
 
 * Final Demo
 
